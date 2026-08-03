@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "version": "v1",
+  "icons": [
+    {
+      "id": "cafe",
+      "label": "Cafe",
+      "filename": "cafe.png",
+      "categories": ["food-drink"],
+      "tags": ["coffee", "mug", "hot drink"]
+    },
+    {
+      "id": "restaurant",
+      "label": "Restaurant",
+      "filename": "restaurant.png",
+      "categories": ["food-drink"],
+      "tags": ["dining", "cloche", "food"]
+    },
+    {
+      "id": "fast-food",
+      "label": "Fast Food",
+      "filename": "fast-food.png",
+      "categories": ["food-drink"],
+      "tags": ["burger", "takeaway", "food"]
+    },
+    {
+      "id": "bakery",
+      "label": "Bakery",
+      "filename": "bakery.png",
+      "categories": ["food-drink"],
+      "tags": ["croissant", "bread", "pastry"]
+    },
+    {
+      "id": "beauty-salon-spa",
+      "label": "Beauty Salon / Spa",
+      "filename": "beauty-salon-spa.png",
+      "categories": ["beauty-personal-care"],
+      "tags": ["spa", "skincare", "cosmetics"]
+    },
+    {
+      "id": "barber-shop",
+      "label": "Barber Shop",
+      "filename": "barber-shop.png",
+      "categories": ["beauty-personal-care"],
+      "tags": ["barber", "haircut", "barber pole"]
+    },
+    {
+      "id": "retail-store",
+      "label": "Retail Store",
+      "filename": "retail-store.png",
+      "categories": ["retail"],
+      "tags": ["shopping", "bag", "store"]
+    },
+    {
+      "id": "gym-fitness",
+      "label": "Gym / Fitness",
+      "filename": "gym-fitness.png",
+      "categories": ["fitness"],
+      "tags": ["kettlebell", "workout", "training"]
+    },
+    {
+      "id": "food-truck",
+      "label": "Food Truck",
+      "filename": "food-truck.png",
+      "categories": ["food-drink"],
+      "tags": ["street food", "van", "takeaway"]
+    },
+    {
+      "id": "ice-cream",
+      "label": "Ice Cream",
+      "filename": "ice-cream.png",
+      "categories": ["food-drink"],
+      "tags": ["soft serve", "cone", "dessert"]
+    },
+    {
+      "id": "juice-bar",
+      "label": "Juice Bar",
+      "filename": "juice-bar.png",
+      "categories": ["food-drink"],
+      "tags": ["juice", "smoothie", "citrus"]
+    },
+    {
+      "id": "supermarket",
+      "label": "Supermarket",
+      "filename": "supermarket.png",
+      "categories": ["retail"],
+      "tags": ["grocery", "basket", "food shop"]
+    },
+    {
+      "id": "boutique-fashion",
+      "label": "Boutique / Fashion",
+      "filename": "boutique-fashion.png",
+      "categories": ["retail", "beauty-personal-care"],
+      "tags": ["dress", "clothing", "fashion"]
+    },
+    {
+      "id": "bookstore",
+      "label": "Bookstore",
+      "filename": "bookstore.png",
+      "categories": ["retail"],
+      "tags": ["books", "reading", "shop"]
+    },
+    {
+      "id": "car-wash",
+      "label": "Car Wash",
+      "filename": "car-wash.png",
+      "categories": ["services"],
+      "tags": ["car", "cleaning", "automotive"]
+    },
+    {
+      "id": "dry-cleaner",
+      "label": "Dry Cleaner",
+      "filename": "dry-cleaner.png",
+      "categories": ["services"],
+      "tags": ["shirt", "laundry", "clothes"]
+    },
+    {
+      "id": "pet-services",
+      "label": "Pet Services",
+      "filename": "pet-services.png",
+      "categories": ["services"],
+      "tags": ["paw", "dog", "grooming"]
+    },
+    {
+      "id": "hotel",
+      "label": "Hotel",
+      "filename": "hotel.png",
+      "categories": ["hospitality-entertainment"],
+      "tags": ["bell", "accommodation", "travel"]
+    },
+    {
+      "id": "entertainment-venues",
+      "label": "Entertainment / Venues",
+      "filename": "entertainment-venues.png",
+      "categories": ["hospitality-entertainment"],
+      "tags": ["popcorn", "cinema", "events"]
+    },
+    {
+      "id": "healthcare-wellness",
+      "label": "Healthcare / Wellness",
+      "filename": "healthcare-wellness.png",
+      "categories": ["health-wellness"],
+      "tags": ["heart", "medical", "wellbeing"]
+    },
+    {
+      "id": "dumbbell",
+      "label": "Dumbbell",
+      "filename": "dumbbell.png",
+      "categories": ["fitness"],
+      "tags": ["weights", "gym", "workout"]
+    },
+    {
+      "id": "nail-polish",
+      "label": "Nail Polish",
+      "filename": "nail-polish.png",
+      "categories": ["beauty-personal-care"],
+      "tags": ["nails", "manicure", "salon"]
+    },
+    {
+      "id": "manicure",
+      "label": "Manicure",
+      "filename": "manicure.png",
+      "categories": ["beauty-personal-care"],
+      "tags": ["nails", "hand", "salon"]
+    },
+    {
+      "id": "uv-nail-lamp",
+      "label": "UV Nail Lamp",
+      "filename": "uv-nail-lamp.png",
+      "categories": ["beauty-personal-care"],
+      "tags": ["nails", "gel", "salon"]
+    },
+    {
+      "id": "hair-dryer",
+      "label": "Hair Dryer",
+      "filename": "hair-dryer.png",
+      "categories": ["beauty-personal-care"],
+      "tags": ["hair", "salon", "styling"]
+    },
+    {
+      "id": "hairbrush",
+      "label": "Hairbrush",
+      "filename": "hairbrush.png",
+      "categories": ["beauty-personal-care"],
+      "tags": ["hair", "salon", "styling"]
+    },
+    {
+      "id": "scissors-comb",
+      "label": "Scissors & Comb",
+      "filename": "scissors-comb.png",
+      "categories": ["beauty-personal-care"],
+      "tags": ["haircut", "stylist", "barber"]
+    },
+    {
+      "id": "pizza",
+      "label": "Pizza",
+      "filename": "pizza.png",
+      "categories": ["food-drink"],
+      "tags": ["slice", "restaurant", "takeaway"]
+    },
+    {
+      "id": "doughnut",
+      "label": "Doughnut",
+      "filename": "doughnut.png",
+      "categories": ["food-drink"],
+      "tags": ["donut", "dessert", "bakery"]
+    },
+    {
+      "id": "bubble-tea",
+      "label": "Bubble Tea",
+      "filename": "bubble-tea.png",
+      "categories": ["food-drink"],
+      "tags": ["boba", "drink", "tea"]
+    },
+    {
+      "id": "florist",
+      "label": "Florist",
+      "filename": "florist.png",
+      "categories": ["retail", "services"],
+      "tags": ["flowers", "bouquet", "gifts"]
+    },
+    {
+      "id": "dental",
+      "label": "Dental",
+      "filename": "dental.png",
+      "categories": ["health-wellness"],
+      "tags": ["tooth", "dentist", "clinic"]
+    }
+  ]
+}

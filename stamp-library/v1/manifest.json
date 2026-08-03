@@ -225,6 +225,69 @@
       "filename": "dental.png",
       "categories": ["health-wellness"],
       "tags": ["tooth", "dentist", "clinic"]
+    },
+    {
+      "id": "gift-box",
+      "label": "Gift Box",
+      "filename": "gift-box.png",
+      "categories": ["rewards-discounts"],
+      "tags": ["gift", "present", "reward"]
+    },
+    {
+      "id": "reward-box",
+      "label": "Reward Box",
+      "filename": "reward-box.png",
+      "categories": ["rewards-discounts"],
+      "tags": ["reward", "prize", "chest"]
+    },
+    {
+      "id": "percent-10",
+      "label": "10% Off",
+      "filename": "percent-10.png",
+      "categories": ["rewards-discounts"],
+      "tags": ["discount", "sale", "percentage", "coupon"]
+    },
+    {
+      "id": "percent-15",
+      "label": "15% Off",
+      "filename": "percent-15.png",
+      "categories": ["rewards-discounts"],
+      "tags": ["discount", "sale", "percentage", "coupon"]
+    },
+    {
+      "id": "percent-20",
+      "label": "20% Off",
+      "filename": "percent-20.png",
+      "categories": ["rewards-discounts"],
+      "tags": ["discount", "sale", "percentage", "coupon"]
+    },
+    {
+      "id": "percent-25",
+      "label": "25% Off",
+      "filename": "percent-25.png",
+      "categories": ["rewards-discounts"],
+      "tags": ["discount", "sale", "percentage", "coupon"]
+    },
+    {
+      "id": "percent-50",
+      "label": "50% Off",
+      "filename": "percent-50.png",
+      "categories": ["rewards-discounts"],
+      "tags": ["discount", "sale", "percentage", "coupon"]
+    },
+    {
+      "id": "percent-75",
+      "label": "75% Off",
+      "filename": "percent-75.png",
+      "categories": ["rewards-discounts"],
+      "tags": ["discount", "sale", "percentage", "coupon"]
+    },
+    {
+      "id": "percent-100",
+      "label": "100% Off",
+      "filename": "percent-100.png",
+      "categories": ["rewards-discounts"],
+      "tags": ["discount", "free", "sale", "percentage", "coupon"]
     }
   ]
 }
